@@ -1,0 +1,17 @@
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\HomeWork1.UnitTest.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\HomeWork1.UnitTest.pdb
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\HomeWork1.exe
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\HomeWork1.pdb
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\HomeWork1.exe.config
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\obj\Debug\HomeWork1.UnitTest.csprojAssemblyReference.cache
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\obj\Debug\HomeWork1.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\obj\Debug\HomeWork1.UnitTest.csproj.CopyComplete
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\obj\Debug\HomeWork1.UnitTest.dll
+C:\Users\User\source\MyCode\HomeWork1\HomeWork1.UnitTest\obj\Debug\HomeWork1.UnitTest.pdb
